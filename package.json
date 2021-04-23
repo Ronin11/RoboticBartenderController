@@ -1,0 +1,22 @@
+{
+  "name": "roboticbartendercontroller",
+  "version": "1.0.0",
+  "description": "(Nate and Apri's Awesome Robotic Bartender)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ronin11/RoboticBartenderController.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ronin11/RoboticBartenderController/issues"
+  },
+  "homepage": "https://github.com/Ronin11/RoboticBartenderController#readme",
+  "dependencies": {
+    "onoff": "^6.0.2"
+  }
+}
